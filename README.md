@@ -1,1 +1,1 @@
-Algorithm for competitve programming enthusiast
+# Algorithm for competitve programming enthusiast
