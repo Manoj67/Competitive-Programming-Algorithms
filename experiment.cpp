@@ -2,9 +2,12 @@
 
 using namespace std;
 
+void sum(int x, int y){
+    int total = x+y;
+    cout << total << endl;
+}
 int main(){
-    int x = 65;
-    cout << "nothing is bad" << endl;
-    cout << "what" << endl
-    cout << "that is different" << endl;
+    int x, y;
+    cin >> x >> y;
+    sum(x, y);
 }
