@@ -1,1 +1,1 @@
-# test
+Algorithm for competitve programming enthusiast
