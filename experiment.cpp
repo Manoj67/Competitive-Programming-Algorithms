@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-    cout << "nothing" << endl;
+    cout << "nothing is bad" << endl;
 }
