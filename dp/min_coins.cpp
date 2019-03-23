@@ -16,7 +16,7 @@ int solve(vector<int> coins, int amount){
         for(int j = 0; j < n; ++j){
             int val = i-coins[j];
             if(val >= 0)
-                dp[i] = min(dp[i], dp[i-coins[j]]+1); // minimizing coins from unlimited supply of coins
+                dp[i] = min(dp[i], dp[val]+1); // minimizing coins from unlimited supply of coins
         }
     }
     return dp[amount];
