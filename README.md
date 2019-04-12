@@ -1,1 +1,1 @@
-# Algorithms for Competitive Programming Enthusiast
+# Algorithms for Competitive Programming 
